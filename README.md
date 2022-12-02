@@ -1,1 +1,1 @@
-click to visit https://yutabaka.github.io/happybirth/
+click to visit https://yutabaka.github.io/happybirthday/
