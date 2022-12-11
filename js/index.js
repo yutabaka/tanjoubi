@@ -9,7 +9,7 @@ $('#login-button').click(function (event) {
 			setTimeout(function(){location.href="BirthdayCake.html";},2000);
 		}
 	else{
-		alert("Sai mật khẩu rồi lêu lêu");
+		alert("Ahihi đồ ngốc!!! Sai mật khẩu rồi lêu lêu");
 	}
 });
 
